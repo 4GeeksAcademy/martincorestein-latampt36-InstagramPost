@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.post{
+    background-color: white;
+    margin: 20px auto;
+    width: 536px;
+    }
+
+.post-header, .post-icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+}
+
+.post-header-left{
+    display: flex;
+    align-items: center;
+}
+.post-header-center p{
+    margin: 0;
+}
+.post-header-center h2{
+    margin: 0;
+}
+.post-header-right{
+    margin: 0 0 0 auto;
+}
+
+.post-img{
+width: 536px;
+
+}
+
+
+.post-body{
+margin: 15px;
+padding-bottom: 15px;
+}
+
+.p-icon, .h-icon{
+    font-size: 40px;
+    margin: 15px;
+}
+
+
